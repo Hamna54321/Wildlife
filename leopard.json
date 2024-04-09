@@ -1,0 +1,26 @@
+{
+    "leopard": {
+       "title": "SRILANKAN LEOPARDS",
+       "description": "Among the animal kingdom's most fascinating species is the leopard (Panthera pardus). Within the big cat family, the leopard is distinguished by its unusually gorgeous coat, quickness, and adaptability. This essay examines this amazing creature's traits, habits, and state of conservation. Larger than lynxes or snow leopards, but smaller than lions and tigers, leopards are medium-sized big cats. Their characteristic rosettes-covered coat gives them great camouflage in a variety of settings. The leopard is remarkably adaptable, as evidenced by the variation in its colours from pale yellow to rich gold, depending on its surroundings.",
+       "adaptability": "Leopards are adaptive in many ways than just looks. They have an ecological versatility that few other large cats can equal, as they can thrive in a variety of environments, from the icy highlands of Siberia to the savannahs of Africa. Their ability to adapt also applies to what they eat. As opportunistic hunters, leopards consume a variety of foods, including big ungulates and insects. Leopards are solitary animals that would rather be left alone to live and hunt. Being mostly nocturnal, they stalk their prey under the cover of darkness. They have extraordinary agility; they can swim well, climb trees with ease, and run up to 58 km/h.",
+       "conservation": "The leopard is now classified as a vulnerable species by the International Union for Conservation of Nature (IUCN). Few members of some subspecies remain in the wild, such as the Amur and Arabian leopards, which are considered severely endangered. Worldwide initiatives are in place to preserve and safeguard the leopard population. These consist of community-based conservation projects, anti-poaching strategies, and habitat protection. Programmes for breeding severely endangered subspecies are also implemented in captivity.",
+       "humanWildlifeConflicts": {
+         "titled": "Human-wildlife Conflicts",
+         "description": "Conflict between humans and leopards is becoming more common in Sri Lanka's upcountry, particularly in areas where tea plantations predominate. Panthera pardus kotiya, the Sri Lankan leopard, is an endangered species, and the majority of these disputes end with leopard deaths brought on by humans. Therefore, evaluating the conflict between humans and leopards in a few tea farms in the upcountry wet zone was the goal of this study. The study, which focused on 15 estates in the Kandy and Nuwara Eliya districts, was carried out between January 2016 and February 2019. A total of 225 respondents were surveyed and interviewed in-person to gather data. The target group included school teachers, managers of tea estates, staff members, and estate communities. To produce information on the conflict's tendencies and patterns, the data were analysed."
+       },
+       "consequences": {
+         "title": "Consequences",
+         "description": "Conflicts between humans and leopards in Sri-Lanka have serious economic and emotional effects for the local populations. Livestock loss can cause profound antipathy towards predators, resulting in retaliatory deaths. Retaliatory kills disturb normal behaviours, increasing stress and reducing reproductive success, posing a threat to leopard populations under conservation. Retaliatory killings, such as snaring, poisoning, and hunting exacerbate leopards vulnerability. Negative opinions about leopards can stymie conservation efforts and foster a hostile environment between humans and wildlife."
+       },
+       "stepsToProtect": {
+         "title": "Steps to Protect",
+         "description": "Because of their ignorance of the leopard's importance to ecosystems and their fear of them, the majority of the people (84%) held a negative attitude towards the protection of leopards. Education campaigns about the value of protecting wildlife for the plantation community could contribute to the preservation of fishing cats as well as leopards. They will contribute to enhancing the sustainability of tea ecosystems, which is necessary to get Fair Trade and Rainforest Alliance UTZ certifications for tea estates. Long-term conflict rates may be decreased by preventing deforestation and growing native trees in deforested areas, which will enhance the availability of prey for leopards."
+       },
+       "images": [
+         "images/yala_np.jpg",
+         "images/luxuryholidaysinyala.jpg",
+         "images/yalaadventures.webp",
+         "images/yslswildlife.jpg"
+       ]
+    }
+}

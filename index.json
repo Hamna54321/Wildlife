@@ -1,0 +1,39 @@
+{
+  "page": {
+     "title": "Home",
+     "sections": [
+       {
+         "type": "hero",
+         "title": "Welcome to Sri Lankan Wildlife",
+         "subtitle": "Sri-Lanka is well-known for its biodiversity and diverse ecosystems. It is a paradise for wildlife and the wildlife explorers. Explore the national parks and other protected areas to learn more about Sri-Lanka's wildlife. One of the greatest percentages of biological indigenous is found in Sri Lanka. Sri Lanka is regarded as the best destination for big game safaris outside of Africa.",
+         "image": "Background Image Placeholder"
+       },
+       {
+         "type": "content",
+         "title": "FAUNA",
+         "description": "All of the animal species found in a certain area or period is referred to as the fauna. For plants, the phrase is flora, and for fungi, it is funga. The term \"biota\" refers to the grouping of many living species, including fungi, animals, and flora. A representative group of species found in a certain period or location is referred to as the \"Sonoran Desert fauna\" or the \"Burgess Shale fauna\" by zoologists and palaeontologists. A sequence of rocks with comparable fossils is called a faunal stage, and palaeontologists refer to these rocks as such at times. Faunistics is the study of animals native to a given area.",
+         "list": [
+           "Land Snails",
+           "Snakes",
+           "Spiders"
+         ]
+       },
+       {
+         "type": "content",
+         "title": "FLORA",
+         "description": "One might categorise Sinharaja's vegetation as a tropical wet evergreen forest or as a tropical lowland rainforest. The loftiness of the main trees, the straightness of their boles, the diversity of species, and the profusion of regeneration are some of the forest's most remarkable features. Each layer of the forest, the total vegetation density, including trees, shrubs, herbs and seedlings has been estimated to be around 240,000 individuals per hectare, of which 95% comprise individuals of the ground layer bellow 1m in height. The density of trees, lianas above 30 cm girth at breast height, ranges between 600 – 700 individuals per hectare while the number of merchantable individuals of trees of girth greater than 150 cm ranges between 45-55 individuals per hectare.",
+         "list": [
+           "Epifauna",
+           "Cryofauna",
+           "Infauna"
+         ]
+       },
+       {
+         "type": "content",
+         "title": "ANIMALS",
+         "description": "The island nation of Sri Lanka is nothing short of stunning, with lovely vistas, stirring mountains, luscious green tea fields, and golden beaches. The country is full of breathtaking natural, historic, and cultural sights, each more picture-perfect than the last. Sri Lanka has all you need for a wonderful vacation, from spiritual Buddhist monasteries and temples to unusual and pristine locations rarely visited. Sri Lanka will not fail you, whether you are traveling with your significant other or planning a vacation with your family!",
+         "image": "Image Placeholder"
+       }
+     ]
+  }
+ }
